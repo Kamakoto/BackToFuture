@@ -1,3 +1,3 @@
-# BackToFuture(FutureTechnologyLab)
+# BackToFuture (FutureTechnologyLab)
 ---------
-Detail warships ande equipment data for BackToFuture
+Detail warships and equipment data for BackToFuture
